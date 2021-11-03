@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">WeatherWaiter_Exomind</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="waiting1">Nous téléchargeons les données…</string>
+    <string name="waiting2">C\'est presque fini…</string>
+    <string name="waiting3">Plus que quelques secondes avant d\'avoir le résultat !</string>
+    <string name="welcome">Welcome to WeatherWaiter!</string>
+    <string name="click">Click me !</string>
+    <string name="retry">Recommencer</string>
+    <string name="end_loading">Récupération terminée</string>
+
+    <string-array name="loading_texts">
+        <item>Nous téléchargeons les données...</item>
+        <item>C\'est presque fini...</item>
+        <item>Plus que quelques secondes avant d\'avoir le résultat !</item>
+    </string-array>
+</resources>
